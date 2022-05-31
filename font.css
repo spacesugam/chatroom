@@ -1,1 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: rgb(174, 233, 233);
+}
+
+.chattal{
+    background-color: aqua;
+    color: rgb(255, 98, 0);
+    text-decoration: solid ;
+    font-size: 60px;
+}
+.des-btn{
+    background-color: rgb(152, 202, 88);
+    height: 50px;
+
+}
+button{
+    text-decoration: none;
+    margin:4px 2px;
+    background-color: aliceblue;
+    font-size: 20px;
+    font-style:initial;
+    font-weight: 200;
+    cursor: pointer;
+    border-width: 4px;
+}
+.button1{
+  color:blue;
+  border-color: darkred;
+  
+}
+.button2{
+    color:rgb(111, 30, 12);
+    border-color:blue ; 
+}
+.button2:hover{color:rgb(255, 0, 0);
+              background-color: rgb(28, 128, 0);}
+.button1:hover{
+    color:rgb(255, 0, 0);
+    background-color: rgb(28, 128, 0);    
+}
+
 
