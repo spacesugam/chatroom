@@ -1,0 +1,73 @@
+h1 { 
+    
+  color:rgb(255, 145, 207);
+  text-align:center;
+  
+}
+
+
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+.float_but
+  {
+	position:fixed;
+	bottom:80px;
+	right:40px;
+	width:60px;
+	height:60px;
+	background-color:rgb(247, 242, 242);
+	color:rgb(244, 4, 4);
+	border-radius:50px;
+	text-align:center;
+  }
+
+  .my-float_bt
+   {
+	margin-top:22px;
+   color:blue;
+   }
+
+
+
+.cont{
+position: fixed;
+top:90%;
+left:40%;
+
+transform: translate(-50%, -50%);
+}
+.input{
+  size:50px;
+  background-color:rgb(234, 189, 234);
+  height:50px;
+  width:500px;
+}
+.input[type="text"]
+{
+  font-size: 30px;
+  height:50px;
+}
+.send{
+  position: absolute;
+  
+  height:50px;
+  width:100px;
+  background-color:rgb(10, 225, 153)
+}
+.send[type="submit"]
+{
+  font-size: 20px;
+  height:50px;
+}
+
+.msg{
+  font-size: 20px;
+  color: rgb(6, 240, 53);
+  
+}
+
+
